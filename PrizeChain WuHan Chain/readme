@@ -1,1 +1,48 @@
+# PROJECT PROFILE: PrizeChain
+## Role: Technical Architect & Tokenomics Lead
+**Project Lead:** Bevon
+**Timeline:** 2021 – 2022
+**Core Tech:** DeFi Yield Aggregation, Probabilistic Rewards, Smart Contract Logic
 
+---
+
+### 🚀 EXECUTIVE SUMMARY
+PrizeChain was developed as a decentralized "Lossless" prize-linked investment protocol. Inspired by the "Premium Bond" model of traditional finance, PrizeChain enables users to deposit capital into yield-generating pools for a chance to win large jackpots, without ever risking their principal investment.
+
+**Recruiter Note:** This project highlights Bevon's ability to engineer complex "Game Theory" into financial protocols—balancing high-user-incentive rewards with institutional-grade capital preservation.
+
+---
+
+### 🛠️ SYSTEM ARCHITECTURE & INNOVATION
+
+#### 1. The "Lossless" Prize Mechanism
+Bevon architected a non-custodial system where user deposits are routed to blue-chip DeFi protocols (like Aave or Compound) to generate yield. 
+* **The Yield Jackpot:** Instead of each user keeping their individual 3–5% yield, the protocol aggregates the entire pool's interest.
+* **Smart Contract Distribution:** The aggregated yield is then randomly distributed to a winner via a verifiable "Probability Engine," while 100% of the principal remains available for user withdrawal at any time.
+
+#### 2. Advanced Tokenomics Design
+To ensure the long-term sustainability of the prize pools, Bevon engineered a multi-token economy:
+* **The PrizePool Logic:** Designed smart contracts to manage "Time-Weighted Luck," where the duration of a deposit increases the statistical probability of winning, preventing "Whale" manipulation.
+* **Liquidity Flywheel:** Implemented a feedback loop where a portion of the protocol's treasury is used to "buy back and burn" the native token, increasing scarcity as the Total Value Locked (TVL) grows.
+
+---
+
+### 📊 PRODUCT LEADERSHIP & STRATEGIC GTM
+
+* **Systemic Safety:** Prioritized capital protection, ensuring the "Principal-Protected" nature of the protocol was the core value proposition in all technical whitepapers.
+* **Narrative Synthesis:** Translated complex probabilistic math and yield-farming mechanics into a simple, "No-Loss" user experience for retail investors.
+* **VC Engagement:** Led technical briefings and pitch sessions, using the PrizeChain model to demonstrate a viable alternative to high-risk speculative gambling.
+
+---
+
+### 🔬 CROSS-DISCIPLINARY RIGOR
+The logic of PrizeChain's "Probability Engine" was directly informed by Bevon's background in:
+* **Medical Statistics:** Applying the same statistical rigor used in clinical meta-analyses (e.g., ABCA4 polymorphism studies) to financial probability.
+* **Diagnostic Precision:** Treating the DeFi "Reward Gap" with the same analytical diagnostic process used in high-stakes clinical optometry.
+
+---
+
+### 💡 KEY COMPETENCIES DEMONSTRATED
+* **Financial Engineering:** Creating a viable "Yield-as-a-Prize" economic engine.
+* **Gamified UX Design:** Turning passive saving into an engaging, high-retention experience.
+* **Sustainable DeFi:** Moving beyond "yield farming" into "Yield Utility," proving the ability to build products that solve real consumer psychology constraints.
